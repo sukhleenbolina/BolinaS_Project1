@@ -2,23 +2,25 @@ body {
 	font-size: 1.5em;
 	font-family: aleo;
 	margin: 200px;
-	padding: 20px;
+	padding: 100px;
 	background-image: url("https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg?cs=srgb&dl=bricks-brickwall-brickwork-1092364.jpg&fm=jpg");
 	max-width: 0 auto;
 }
 
-h3, h1{
+h3, header{
 	color:#0099cc;
 	font-family: oswald; 
-	font-size: 2em;
+	font-size: 2.2em;
 }
 
 ul {
 	color: pink;
-}
+	font-size: 1.5em
+} 
 
-h1 {
+header {
 	text-align: center;
+	font-size: 3em;
 }
 
 a {
